@@ -18,7 +18,39 @@ Users can upload an image and instantly receive:
 > ⚠ **Disclaimer:** This application is developed for educational and research purposes only and is **not intended for medical diagnosis**.
 
 ---
+# 📊 Dataset
 
+This project was trained using the publicly available **Skin Disease Classification Image Dataset** published on Kaggle.
+
+**Dataset Information**
+- Dataset Name: Skin Disease Classification [Image Dataset]
+- Total Images: 900
+- Number of Classes: 9
+- Train/Validation Split: 80/20
+- Source: Kaggle
+
+### Dataset Classes
+
+- Actinic keratosis
+- Atopic Dermatitis
+- Benign keratosis
+- Dermatofibroma
+- Melanocytic nevus
+- Melanoma
+- Squamous cell carcinoma
+- Tinea Ringworm Candidiasis
+- Vascular lesion
+
+### Dataset Source
+
+🔗 Dataset URL:
+
+https://www.kaggle.com/datasets/riyaelizashaju/skin-disease-classification-image-dataset
+
+### Citation
+
+
+> Riya Eliza Shaju, *Skin Disease Classification Image Dataset*, Kaggle.
 # 🚀 Demo
 
 ### Home Page
