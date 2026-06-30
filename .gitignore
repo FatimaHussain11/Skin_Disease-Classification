@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables — NEVER commit real secrets
+.env
+*.env.local
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# TensorFlow / Keras model files — too large for Git
+*.h5
+*.keras
+*.tflite
+*.pb
+*.ckpt
+*.ckpt.index
+*.ckpt.data-00000-of-00001
+checkpoint
+saved_model/
+
+# PyTorch
+*.pth
+*.pt
+
+# Dataset directories
+dataset/
+data/
+raw_data/
+Split_smol/
+*.zip
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+flask_session/
+
+# Coverage / Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Cache
+.cache/
+*.pkl
