@@ -3,7 +3,7 @@
 <img width="1536" height="1024" alt="WhatsApp Image 2026-06-30 at 12 29 14 PM" src="https://github.com/user-attachments/assets/ce77bdee-af2e-440c-b811-bdf111d42315" />
 
 
-## 📌 About the Project
+## 📌 About The Project
 
 The **Skin Disease Classification System** is an AI-powered web application that classifies skin lesion images into **nine dermatological conditions** using a **MobileNetV2 Transfer Learning** model.
 
