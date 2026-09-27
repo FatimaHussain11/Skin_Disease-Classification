@@ -251,8 +251,17 @@ This project is licensed under the **MIT License**.
 
 # 👩‍💻 Author
 
-**Fatima Hussain**
+## 👩‍💻 Authors & Contributions
 
-BS Artificial Intelligence Student
+### **Fatima Maqbool**
+
+🎓 BS Artificial Intelligence
+🏫 The University of Faisalabad
+
+### **Laiba Aamir**
+
+🎓 BS Software Engineering
+🏫 The University of Faisalabad
+
 
 ⭐ If you found this project helpful, don't forget to **Star** the repository!
